@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+h1{
+    font-size: 50px;
+    font-family: 'Redressed', cursive;
+}
+.nameHighlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
